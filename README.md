@@ -1,6 +1,7 @@
 # Real-time BCI Close-Open eye and SSVEP with Python
 
-Basic example for demonstration, Close-Open eye and 2 classes, SSVEP classification based threshold to send a command to the robot.
+Basic example for demonstration, Close-Open eye and 2 classes, SSVEP classification based threshold to send a command to the robot. 
+EEG device: Emotiv epocX LSL streaming with 128 Hz
 
 ![Project Screenshot](Screenshot.png)
 
