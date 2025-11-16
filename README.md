@@ -3,7 +3,7 @@
 Basic example for demonstration, Close-Open eye and 2 classes, SSVEP classification based threshold to send a command to the robot. 
 EEG device: Emotiv epocX LSL streaming with 128 Hz
 
-[![Watch the video](https://img.youtube.com/vi/b9hLuP3QTko?/hqdefault.jpg)](https://youtube.com/shorts/b9hLuP3QTko?feature=share)
+[![Watch the video](https://img.youtube.com/vi/b9hLuP3QTko/hqdefault.jpg)](https://youtube.com/shorts/b9hLuP3QTko?feature=share)
 
 Please set up follow instructions below:
 
